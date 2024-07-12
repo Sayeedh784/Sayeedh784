@@ -10,7 +10,7 @@ I am Md.Sayeed Hasan,React-Django full-stack developer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Django and ReactJs.
+- 🔭 I’m currently working on Django.
 - 👯 I’m looking to collaborate on Django.
 
 ### Contact with me:
