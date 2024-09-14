@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 -  I’m currently working on Django.
 -  I’m looking to collaborate on Django.
--  I'm improving myself by learing Cyber Security.
+-  I'm improving myself by learning Cyber Security.
 
 ### Contact with me:
 
