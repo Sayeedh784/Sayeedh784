@@ -37,10 +37,9 @@ Hi there! I'm Md Sayeed Hasan, a passionate **Cyber Security Specialist** and MS
 
 ## 📫 Get in Touch
 
-[<img align="left" alt="Facebook" width= "22px" src="http://i.imgur.com/P3YfQoD.png" />]
-[<img align="left" alt="Sayeed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayeedhasan784@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/md-sayeed-hasan-453418223/
+))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/your-profile](https://www.facebook.com/sayeed.hasan.351104/))
 
-[email](mailto:sayeedhasan784@gmail.com)
-[facebook]: https://www.facebook.com/sayeed.hasan.351104/
-[linkedin]: https://www.linkedin.com/in/md-sayeed-hasan-453418223/
 
