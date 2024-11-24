@@ -34,27 +34,13 @@ Hi there! I'm Md Sayeed Hasan, a passionate **Cyber Security Specialist** and MS
 
 ---
 
+
 ## 📫 Get in Touch
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Blog: [Your Blog/Portfolio](https://your-website.com)
+[<img align="left" alt="Facebook" width= "22px" src="http://i.imgur.com/P3YfQoD.png" />]
+[<img align="left" alt="Sayeed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
----
-
-## 💡 Fun Fact
-
-When I’m not analyzing vulnerabilities or coding, you’ll find me exploring the latest tech trends or gaming.
-
----
-
-
-### Contact with me:
-
-[<img align="left" alt="Facebook" width= "22px" src="http://i.imgur.com/P3YfQoD.png" />][facebook]
-[<img align="left" alt="Sayeed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-Email: [your.email@example.com](mailto:sayeedhasan784@gmail.com)
+[email](mailto:sayeedhasan784@gmail.com)
 [facebook]: https://www.facebook.com/sayeed.hasan.351104/
 [linkedin]: https://www.linkedin.com/in/md-sayeed-hasan-453418223/
 
