@@ -2,9 +2,6 @@
 
 Hi there! I'm Md Sayeed Hasan, a passionate **Cyber Security Specialist** and MSc student specializing in **Cyber Security**. With a strong foundation in **penetration testing**, **ethical hacking**, **Python** **web development**, I love solving complex security challenges and creating secure, efficient solutions.
 
-## Stack
- <img height="60px"  width="60px"  object-fit="contain"  alt="python" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" />  <img height="60px"  width="60px"  object-fit="contain" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />  <img  height="60px"  width="60px"  object-fit="contain" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />  <img  height="60px"  width="60px" object-fit="contain" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>  <img height="60px"  width="60px"  object-fit="contain" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />  <img  height="60px" width="60px" object-fit="contain" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-
 ## 🛠️ Skills & Expertise
 
 - **Cyber Security**
