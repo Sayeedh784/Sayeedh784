@@ -1,63 +1,74 @@
-<h1 align="center">Hi there! I'm Md Sayeed Hasan 👋</h1>
-<h3 align="center">Cyber Security Specialist | MSc Student | Python Developer</h3>
-
-<p align="center">
-  I am a passionate cybersecurity researcher with a strong foundation in <b>penetration testing</b>, <b>ethical hacking</b>, and <b>secure web development</b>. I love solving complex security challenges and building efficient, automated tools to keep digital environments safe.
-</p>
-
----
-
-## 🚀 About Me
-
-- 🛡️ **Currently working on:** **PhishDetect Pro**, a hybrid machine learning and rule-based phishing detection tool.
-- 🎓 **Education:** Pursuing an MSc specializing in Cyber Security.
-- 🌱 **Currently learning:** Advanced Offensive Security Techniques & Deep Penetration Testing.
-- 🎥 **Content Creation:** I share my insights on cybersecurity, password cracking, and my thesis work on my YouTube channel.
-- 💼 **Entrepreneurship:** Founder of Fancy Bin. 
-- 🤝 **Looking to collaborate on:** Open-source security tools and Python-based automation scripts.
-
----
-
-## 🛠️ Skills & Expertise
-
-### Security & Forensics
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=blue" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-</p>
-
-### Programming & Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+
+# 👨‍💻 Md Sayeed Hasan
+**Cybersecurity Specialist • MSc Researcher • Python & Django Developer**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Securing+Digital+Environments.;Architecting+PhishDetect+Pro.;Mastering+Offensive+Security.;Building+Robust+Web+Applications.)](https://git.io/typing-svg)
+
+*I am dedicated to fortifying digital landscapes. By blending offensive security techniques with automated defensive mechanisms, I build robust, scalable solutions. Whether I'm hunting vulnerabilities, developing intelligent threat-detection systems, or sharing knowledge, my goal is to stay one step ahead of emerging cyber threats.*
+
 </div>
 
 ---
 
-## 📫 Let's Connect!
+### 🔭 Current Initiatives & Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Security & Research</h3>
+      <ul>
+        <li><b>PhishDetect Pro:</b> Architecting a next-generation phishing detection engine utilizing a hybrid of machine learning and rule-based algorithms.</li>
+        <li><b>Academic Pursuit:</b> Currently undertaking an MSc in Cyber Security with a focus on advanced offensive tactics.</li>
+        <li><b>Deep Dives:</b> Mastering advanced penetration testing and ethical hacking methodologies.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 Media & Entrepreneurship</h3>
+      <ul>
+        <li><b>Content Creation:</b> Breaking down my thesis research and demonstrating tactical tools (like password cracking via Kali Linux) for both IT and non-IT audiences on YouTube.</li>
+        <li><b>Digital Business:</b> Driving e-commerce innovation and targeted marketing as the founder of <i>Fancy Bin</i>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Technical Arsenal
+
+<div align="center">
+
+| Area | Technologies & Tools |
+| :--- | :--- |
+| **Offensive Security** | `Kali Linux` `Burp Suite` `Metasploit` `Wireshark` `Vulnerability Assessment` `Pen Testing` |
+| **Development** | `Python` `Django` `HTML5` `CSS3` `JavaScript` |
+| **Core Concepts** | `Network Security` `Ethical Hacking` `Machine Learning (Security Apps)` |
+
+</div>
+
+---
+
+### 📈 GitHub Operations
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🌐 Secure a Connection
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sayeed-hasan-453418223/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sayeed.hasan.351104/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayeedhasan784@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+
+</div>
 
 <p align="center">
-  <a href="mailto:sayeedhasan784@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/md-sayeed-hasan-453418223/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/sayeed.hasan.351104/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  <i><b>"Security is not a product, but a process."</b></i>
 </p>
