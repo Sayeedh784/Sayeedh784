@@ -12,8 +12,6 @@
 - 🛡️ **Currently working on:** **PhishDetect Pro**, a hybrid machine learning and rule-based phishing detection tool.
 - 🎓 **Education:** Pursuing an MSc specializing in Cyber Security.
 - 🌱 **Currently learning:** Advanced Offensive Security Techniques & Deep Penetration Testing.
-- 🎥 **Content Creation:** I share my insights on cybersecurity, password cracking, and my thesis work on my YouTube channel.
-- 💼 **Entrepreneurship:** Founder of Fancy Bin. 
 - 🤝 **Looking to collaborate on:** Open-source security tools and Python-based automation scripts.
 
 ---
